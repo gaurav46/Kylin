@@ -36,7 +36,7 @@
 
         <log4j.version>1.2.17</log4j.version>
         <slf4j.version>1.6.4</slf4j.version>
-        <jackson.version>2.2.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <guava.version>12.0.1</guava.version>
 
